@@ -1,6 +1,6 @@
 {
   "name": "hubot-acquia-cloud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hubot Bot for Acquia Cloud",
   "main": "index.js",
   "scripts": {
