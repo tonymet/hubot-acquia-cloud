@@ -1,6 +1,6 @@
 {
   "name": "hubot-acquia-cloud",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hubot Bot for Acquia Cloud",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/tonymet/hubot-acquia-cloud#readme",
   "dependencies": {
-    "acquia-cloud-client": "https://github.com/tonymet/acquia-cloud-client/tarball/master"
+    "acquia-cloud-client": "0.0.4"
   }
 }
